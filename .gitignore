@@ -1,0 +1,4 @@
+data/dog_brain.json
+data/memories/*.md
+!data/.gitkeep
+!data/memories/.gitkeep
