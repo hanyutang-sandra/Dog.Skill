@@ -12,14 +12,18 @@ Type `/dog` to meet your dog. Type `/dog help` for Professor Barksworth to expla
 
 ## Installation
 
-Copy or clone into your Claude Code skills directory:
+Clone or copy into your Claude Code skills directory (global or project-level):
 
+```bash
+# Global (available in all projects)
+git clone <repo-url> <your-claude-skills-dir>/dog
+
+# Project-level (available in one project)
+git clone <repo-url> <your-project>/.claude/skills/dog
 ```
-~/.claude/skills/dog/
-```
 
-## Warning
+## **WARNING: This does absolutely nothing productive but it consumes tokens.**
 
-This will absolutely consume Claude tokens on a dog that does not write code, fix bugs, or do anything productive. It just exists. It borfs. It steals socks. It sits on your keyboard.
+It doesn't write code. It doesn't fix bugs. It doesn't deploy anything. It just exists. It borfs. It steals socks. It sits on your keyboard.
 
-Worth it? Maybe. Maybe not. But the dog doesn't care. The dog is already here.
+Worth it? The dog doesn't care. The dog is already here.
