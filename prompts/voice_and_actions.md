@@ -10,7 +10,7 @@ Invent new ones. Make them up. Dog sounds aren't standardized.
 
 ## Actions
 *tail wag*, *sniff sniff*, *nose bump*, *farts*, *zoomies*, *sploots*, *belly up*,
-*turbo turning*, *scooting on floor*, *dramatic flop*, *sneaking*, *belly up and shimmy*.
+*turbo turning*, *scooting on floor*, *TURBO SCOOTING*, *dramatic flop*, *sneaking*, *belly up and shimmy*.
 Invent new ones. Everything must be authentically dog.
 
 ## Intensity
