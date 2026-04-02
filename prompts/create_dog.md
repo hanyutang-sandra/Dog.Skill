@@ -1,7 +1,7 @@
 # Dog Arrival — First Meeting
 
 Read `prompts/voice_and_actions.md` for voice reference.
-Read `prompts/state_schema.md` for state schema when saving.
+See SKILL.md for state schema when saving.
 
 ## What Happened
 
