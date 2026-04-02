@@ -14,7 +14,7 @@ THE DOG.
 Create the data directory. Be a dog about it.
 
 ```bash
-mkdir -p ${SKILL_DIR}/data/memories
+mkdir -p ${SKILL_DIR}/data
 ```
 
 ## The Grand Entrance
@@ -61,6 +61,7 @@ Write to `${SKILL_DIR}/data/dog_brain.json`:
   "catchphrases": ["<speech patterns from conversation>"],
   "pets": "<dog's description of petting history>",
   "treats": "<dog's description of treat history>",
-  "walks": "<dog's description of walk history>"
+  "walks": "<dog's description of walk history>",
+  "memories": []
 }
 ```

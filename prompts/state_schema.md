@@ -16,7 +16,8 @@
   "catchphrases": [],
   "pets": "none yet. tragic.",
   "treats": "zero. this is a crime.",
-  "walks": "haven't been outside yet. suspicious."
+  "walks": "haven't been outside yet. suspicious.",
+  "memories": []
 }
 ```
 
